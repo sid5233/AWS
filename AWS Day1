@@ -1,0 +1,56 @@
+ AWS - Day 1
+
+ 
+ Before cloud computing -
+ You have to 
+ 1.Buy a stack of servers
+ 2.Monitoring and maintain servers are costly
+ 3.High traffic more servers.
+ 
+ if you consider costs then this setup is expensive.
+ 
+ troubleshooting problems can be tedious and may conflicts with your business goals.
+ 
+ since traffic is varying, your servers will be idle most of the time.
+ 
+ what is Cloud?
+ - lot of data 
+ -  The cloud refers to server that are accessed over the internet,and          
+    the software and data base that run on those servers.
+     By using cloud computing,users and companies don't have to manage physical servers themselves or run software application on therir own machine.
+ 
+ 
+ what is cloud computing?
+ - cloud computing is :
+  storing data/application on remote servers.
+  processng data/application from servers.
+  accessing data/application via internet.
+  
+  it makes everything available.
+  
+  Deployment Models 
+  -
+  Public Cloud  - A service provider makes resources, such as application and storage,available to the general public over the internet.
+  easy and inexpensice, available to public
+  
+  Private Cloud - Offered hosted services to a limited number of people behind firewall,so it minimizes the security concerns.
+  private cloud gives companies direct control over their data.
+  
+  Hybrid Cloud - A cloud computing environment that uses a mix of on-premises private cloud and third party public cloud services.
+  
+  
+  Cloud Providers -
+  AWS - amazon web services - top leader in the market
+  GCP - google cloud platform
+  Azure - by microsoft
+  IBM cloud
+  DigitalOcean
+  terremark
+  
+  What is EC2?
+    -ELASTIC COMPUTE CLOUD
+    It is a service and it belongs to the compute domain of AWS.
+    Provide secure and resizable compute capacity in cloud(developers ease
+    As per requrement we resize it.
+  
+  
